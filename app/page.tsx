@@ -40,6 +40,7 @@ Quarter II (Core) W2-201: Developing Planet-Scale Web 2.0 Serverless Cloud Cloud
                 </tr>
             </table>
         </section>
+
 <section>
             <h2>Contact Us</h2>
             

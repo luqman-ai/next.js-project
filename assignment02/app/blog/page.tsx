@@ -9,7 +9,7 @@ function Blog(){
         <body/>
             <section className="Sub-header">
                 <nav>
-                    <a href="/" className="logo">Xplore
+                    <a href="/" className="logo">MyBlog
                         <i className="fab fa-staylinked"></i>kill
                     </a>
                     <div className="nav-links" id="navLinks">
@@ -17,10 +17,7 @@ function Blog(){
                         <i className="fa fa-times" onClick="hideMenu()"></i>
                         <ul>
                         <li><a href="/">Home</a></li>
-                       <li><a href="/course">Course</a></li>
                         <li><a href="/blog">Blog</a></li>
-                        <li><a href="/about">About</a></li>
-                        <li><a href="/contact">Contact</a></li>
                         </ul>
                     </div>
                     <i className="fa fa-bars" onClick="showMenu()"></i>
