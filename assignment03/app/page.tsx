@@ -11,7 +11,7 @@ function Home() {
   <body/>
       <section className="Sub-header">
           <nav>
-              <a href="/" className="logo">Xplore
+              <a href="/" className="logo">MYBlog
                   <i className="fab fa-staylinked"></i>kill
               </a>
               <div className="nav-links" id="navLinks">

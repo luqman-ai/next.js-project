@@ -1,0 +1,35 @@
+ const students=[{
+    name:'arun',
+    gender:'male',
+    physics:88,
+    maths:87,
+    english:78
+},
+{
+    name:'rajesh',
+    gender:'male',
+    physics:96,
+    maths:100,
+    english:95
+},
+{
+    name:'numan',
+    gender:'male',
+    physics:89,
+    maths:90,
+    english:70
+},
+{
+    name:'raja',
+    gender:'male',
+    physics:30,
+    maths:25,
+    english:40
+},
+{
+    name:'usha',
+    gender:'female',
+    physics:67,
+    maths:45,
+    english:78
+}]
