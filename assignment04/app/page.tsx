@@ -9,7 +9,7 @@ import Image from 'next/image'
         <div className="text_box">
           <h1>students result</h1>
           
-          <NameDisplay className="course-col" names={students} />
+          <NameDisplay names={students} />
         </div></section></>
     );
   };
