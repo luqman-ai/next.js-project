@@ -1,9 +1,4 @@
 import type { Config } from 'tailwindcss'
-/* styles/globals.css */
-
-
-/* Your custom styles go here */
-
 
 const config: Config = {
   content: [
