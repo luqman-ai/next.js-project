@@ -42,10 +42,10 @@ const CardGrid = () => {
 
   return (
 
-    <div className="grid lg:grid-cols-3 gap-x-15 gap-y-4 m-8 md:grid-cols-2">
+    <div className="grid lg:grid-cols-3 gap-x-15 gap-y-8 m-8 md:grid-cols-2">
       {cards.map((card) => (
         <div className="col-span-1 rounded-lg  border-black text-3xl font-sans text-center h-[350px] grid grid-cols-1 hover:bg-red-600 hover:scale-105">
-        <div key={card.id} className="bg-gray-100 p-4 rounded shadow">
+        <div key={card.id} className="bg-gray-100 p-3rounded shadow">
           <div className="mb-2">
             <Image src={card.image} alt={card.title} width={300} height={200} objectFit="cover" className="rounded" />
           </div>
